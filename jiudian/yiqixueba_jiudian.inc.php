@@ -5,5 +5,5 @@ if(!defined('IN_DISCUZ') ) {
 }
 
 test
-
+nam wo jiu zai xiugai yixia 
 ?>
